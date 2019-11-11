@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import AnyCodable
 
 final class Schema: Encodable {
     struct DataType {
